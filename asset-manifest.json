@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/PortfolioWebsite/static/css/main.581cfbe3.css",
-    "main.js": "/PortfolioWebsite/static/js/main.61ce68c6.js",
+    "main.js": "/PortfolioWebsite/static/js/main.270cc8e5.js",
     "static/media/2.PNG": "/PortfolioWebsite/static/media/2.05495db11ad86bb27497.PNG",
     "static/media/brandBanner.jpg": "/PortfolioWebsite/static/media/brandBanner.2541860e721025109460.jpg",
     "static/media/1.PNG": "/PortfolioWebsite/static/media/1.164b932415761543b8f5.PNG",
@@ -10,13 +10,14 @@
     "static/media/Farr.jpg": "/PortfolioWebsite/static/media/Farr.8a3f20c182fe693e6d2b.jpg",
     "static/media/contactus.jpg": "/PortfolioWebsite/static/media/contactus.49e280c5beb60d8cfa00.jpg",
     "static/media/5.PNG": "/PortfolioWebsite/static/media/5.feabb4ae938dcef19d12.PNG",
+    "static/media/far1.jpg": "/PortfolioWebsite/static/media/far1.56de0184ff12e57ed931.jpg",
     "static/media/3.PNG": "/PortfolioWebsite/static/media/3.9a96fe9d97d49828c979.PNG",
     "index.html": "/PortfolioWebsite/index.html",
     "main.581cfbe3.css.map": "/PortfolioWebsite/static/css/main.581cfbe3.css.map",
-    "main.61ce68c6.js.map": "/PortfolioWebsite/static/js/main.61ce68c6.js.map"
+    "main.270cc8e5.js.map": "/PortfolioWebsite/static/js/main.270cc8e5.js.map"
   },
   "entrypoints": [
     "static/css/main.581cfbe3.css",
-    "static/js/main.61ce68c6.js"
+    "static/js/main.270cc8e5.js"
   ]
 }
