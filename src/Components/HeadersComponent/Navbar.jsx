@@ -10,10 +10,12 @@ const Navbar = ({ navlinks, handleDrawerToogler }) => {
     <Box>
       <AppBar position="fixed" className={classes.navbar}>
         <Toolbar className={classes.ToolBar}>
+        <a href="Header" style={{textDecoration : "none", color: "#fff"}}>
           <Typography style={{display: "flex"}} variant="h2" component="h6" sx={{ flexGrow: 1 }} className="navlogo">
           {/* <img src={image} style={{width: "10%"}} alt="" /> */}
           FR
           </Typography>
+          </a>
           <Box component={Hidden} xsDown>
             <Box>
               {navlinks.map((item, i) => (
